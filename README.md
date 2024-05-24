@@ -1,5 +1,5 @@
 
-Certainly! Here's the revised LinkedIn project description with a mention of the epsilon-greedy policy:
+
 
 Project: Tic Tac Toe RL Bot using Deep Q-Networks (DQN)
 
