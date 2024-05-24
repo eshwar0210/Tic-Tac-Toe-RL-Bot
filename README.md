@@ -7,7 +7,7 @@ Objective: Developed an intelligent agent to play Tic Tac Toe using reinforcemen
 
 Algorithm: Implemented a Deep Q-Network (DQN) to enable the bot to learn optimal strategies through self-play.
 
-Frameworks and Libraries: Utilized TensorFlow and Keras for building and training the neural network, and OpenAI Gym for the environment setup.
+Frameworks and Libraries: Utilized TensorFlow and Keras for building and training the neural network, custom environmet for gameplay.
 
 State Representation: Represented the Tic Tac Toe board as a 1D array of length 9, with each element corresponding to a cell on the board (empty, player 1, player 2).
 
@@ -23,8 +23,6 @@ Performance Evaluation: Evaluated the bot's performance against baseline random 
 
 Results: Achieved a high win-rate against non-learning agents and competitive performance against more advanced heuristic strategies.
 
-Challenges: Addressed challenges related to overfitting, reward shaping, and the balance between exploration and exploitation.
 
-Future Work: Plans to extend the approach to more complex games and refine the DQN architecture for improved learning efficiency and performance.
 
 
